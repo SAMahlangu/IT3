@@ -41,7 +41,7 @@ const Header = () => {
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="h-4 w-4" />
-              <span>info@example.com</span>
+              <span>Info@madibanait.co.za</span>
             </div>
           </div>
           <div className="hidden md:block">
@@ -57,7 +57,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-teal-600 rounded-lg flex items-center justify-center text-white font-bold">
               M
             </div>
-            <span className="text-xl font-bold text-gray-800">Madibana IT</span>
+            <span className="text-xl font-bold text-gray-800">Madibana IT Solutions and Cabling (PTY)Ltd</span>
           </Link>
 
           {/* Desktop navigation */}
